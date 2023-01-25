@@ -1,8 +1,8 @@
 toc:
   - title: Theme1
     subfolderitems:
-      - page: Thing 1
-        url: /thing1.html
+      - page: Языки программирования
+        url: /Book-C/2023/01/20/Program_lang.html
       - page: Thing 2
         url: /thing2.html
         subsubfolderitems:
